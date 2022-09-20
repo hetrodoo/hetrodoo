@@ -4,7 +4,7 @@
 - ⚡ I’m currently working a typescript ThreeJS based game engine  
   
 
-- 📚 I’m currently studying information systems at Unilasalle RJ  
+- 📚 I’m currently studying information systems at [Unilasalle RJ](https://www.unilasalle.edu.br/rj)
   
 
 - 🎮 I’m currently developing a [TTT style game](https://www.troubleinterroristtown.com/) in Unity for desktops and mobile  
