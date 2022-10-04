@@ -1,6 +1,9 @@
 ### <div align="center">I'm Eduardo Leite, a front-end (full-stack in spare time) developer</div>  
 
 
+<br/>
+
+
 - 🏷️ Featured project: [AgoraNoEvento](https://agoranoevento.com/) (PT-BR only)
 
 
