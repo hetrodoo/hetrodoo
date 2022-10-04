@@ -10,13 +10,28 @@
 - 📚 Studying information systems at [Unilasalle RJ](https://www.unilasalle.edu.br/rj)
 
 
-- ⚡ Working on a typescript ThreeJS based game engine 
+- ⚡ Working on a typescript ThreeJS based game engine
 
 
-<br/>  
+<br/>
 
 
-### Technologies  
+### Public Projects
+
+- 📅 [AgoraNoEvento](https://agoranoevento.com/)
+
+
+- 🏷️ [TicketClub](https://ticketclub.app/#/welcome)
+
+
+- 🎮 [Anonymous](https://gamejolt.com/games/Anonymous/457463)
+
+
+<br/>
+
+
+### Technologies
+
 <div align="center">  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
