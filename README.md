@@ -1,17 +1,16 @@
 ### <div align="center">I'm Eduardo Leite, a front-end (full-stack in spare time) developer</div>  
-  
 
-- ⚡ I’m currently working a typescript ThreeJS based game engine  
-  
 
-- 📚 I’m currently studying information systems at [Unilasalle RJ](https://www.unilasalle.edu.br/rj)
-  
+- 🏷️ Featured project: [AgoraNoEvento](https://agoranoevento.com/) (PT-BR only)
 
-- 🎮 I’m currently developing a [TTT style game](https://www.troubleinterroristtown.com/) in Unity for desktops and mobile  
-  
+
+- 📚 Studying information systems at [Unilasalle RJ](https://www.unilasalle.edu.br/rj)
+
+
+- ⚡ Working on a typescript ThreeJS based game engine 
+
 
 <br/>  
-
 
 
 ### Technologies  
