@@ -4,10 +4,10 @@
 <br/>
 
 
-- 🏷️ Featured project: [AgoraNoEvento](https://agoranoevento.com/) (PT-BR only)
+- 🏷️ Featured project: [WebRocket](https://www.npmjs.com/package/@hetrodo/webrocket)
 
 
-- 📚 Studying information systems at [Unilasalle RJ](https://www.unilasalle.edu.br/rj)
+- 📓 Studying information systems at [Unilasalle RJ](https://www.unilasalle.edu.br/rj)
 
 
 - ⚡ Working on a typescript ThreeJS based game engine
@@ -17,6 +17,8 @@
 
 
 ### Public Projects
+
+- 📚 [WebRocket](https://www.npmjs.com/package/@hetrodo/webrocket)
 
 - 📅 [AgoraNoEvento](https://agoranoevento.com/)
 
