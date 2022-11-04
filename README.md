@@ -1,4 +1,4 @@
-### <div align="center">I'm Eduardo Leite, a front-end (full-stack in spare time) developer</div>  
+### <div align="center">Hi there! I'm Eduardo Leite</div>  
 
 
 <br/>
