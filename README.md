@@ -83,3 +83,6 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetrodoo&layout=compact&theme=jolly" alt="Top Langs" align="right" style="margin-bottom:2em;margin-left:2em;" />
+<img src="https://github-readme-stats.vercel.app/api?username=hetrodoo&theme=jolly" alt="RickCardoso's GitHub Stats" align="right" style="margin-bottom:2em;margin-left:2em;" />
