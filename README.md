@@ -20,8 +20,6 @@
 
 - 📚 [WebRocket](https://www.npmjs.com/package/@hetrodo/webrocket)
 
-- 📅 [AgoraNoEvento](https://agoranoevento.com/)
-
 
 - 🏷️ [TicketClub](https://ticketclub.app/#/welcome)
 
