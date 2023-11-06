@@ -1,22 +1,30 @@
-### <div align="center">Hi there! I'm Eduardo Leite</div>  
+### <div align="center">Hi there! I'm Eduardo Leite</div>
 
+I'm a passionate full-stack developer who loves coding. I've worked with a wide range of technologies, from C++ for
+microcontrollers to WebRTC for web apps.
+
+Right now, my main tech stack includes React for the website's front-end, Tailwind for the design, and NestJS for the
+back-end. I host my projects on Google Cloud, and automate then with CircleCI for a smooth development and deployment
+process.
+
+[Blog / Portfolio](https://hetrodo.dev)
 
 <br/>
 
-
-- 🏷️ Featured project: [WebRocket](https://www.npmjs.com/package/@hetrodo/webrocket)
+- 🏷️ Featured project: [node-hide-console-window](https://www.npmjs.com/package/node-hide-console-window)
 
 
 - 📓 Studying information systems at [Unilasalle RJ](https://www.unilasalle.edu.br/rj)
 
 
-- ⚡ Working on a typescript ThreeJS based game engine
-
+- ⚡ Working on a web app that turns your phone into a webcam
 
 <br/>
 
-
 ### Public Projects
+
+- 📚 [node-hide-console-window](https://www.npmjs.com/package/node-hide-console-window)
+
 
 - 📚 [WebRocket](https://www.npmjs.com/package/@hetrodo/webrocket)
 
@@ -26,45 +34,22 @@
 
 - 🎮 [Anonymous](https://gamejolt.com/games/Anonymous/457463)
 
-
 <br/>
-
 
 ### Technologies
 
-<div align="center">  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetrodoo&layout=compact&theme=transparent)
 
 
-<br/>  
+<br/>
 
+### <div align="center">Connect with me </div>
 
-## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/eduardo-leite-040bbb1b2" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-
-
-<br/>  
+    <a href="https://linkedin.com/in/eduardo-leite-040bbb1b2" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+</div>
 
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
